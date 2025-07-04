@@ -41,3 +41,24 @@ This repo is used to track weekly cativity during aws-cloudsec bootcamp
 --RDP to Instance
 ![csn-ec2 rdp](https://github.com/user-attachments/assets/951a51de-28fd-41eb-966f-92d38b34e9a4)
 
+##################
+#  WEEK 4 TASK - #
+##################
+
+#Creation of vpc a an isolation cloud env
+
+![vpc crtA](https://github.com/user-attachments/assets/d21e3c38-aee7-4f25-9be8-c57c1ef6cde1)
+
+#Creation of vpc b an isolation cloud env
+
+![vpc crtB](https://github.com/user-attachments/assets/d3b5630c-a91c-426d-b688-e6c98054f85e)
+
+# VPC peer connection created to establish link between vpc A and vpc B
+
+![vpc peer](https://github.com/user-attachments/assets/af76328d-2118-4003-9ae6-ed0e76843ba0)
+
+# Created route table for both vpc a n b
+
+![vpc rtA](https://github.com/user-attachments/assets/0975b8f9-3aad-44f1-8432-a5c823c397b1)
+
+![vpc rtB](https://github.com/user-attachments/assets/6b654a36-7e11-4da4-a838-ffa06f17ff4d)
