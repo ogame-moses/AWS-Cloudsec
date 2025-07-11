@@ -62,3 +62,25 @@ This repo is used to track weekly cativity during aws-cloudsec bootcamp
 ![vpc rtA](https://github.com/user-attachments/assets/0975b8f9-3aad-44f1-8432-a5c823c397b1)
 
 ![vpc rtB](https://github.com/user-attachments/assets/6b654a36-7e11-4da4-a838-ffa06f17ff4d)
+
+##################
+#  WEEK 5 TASK - #
+##################
+This simple project deploy grafana using Amazon ECS with Fargate.
+Grafana is a popular open-source dashbaord tool that runs on port 3000.
+Image used id grafana/grafana
+
+#For this task we would need to create a cluster service
+
+<img width="1386" height="373" alt="ecs1" src="https://github.com/user-attachments/assets/61fafe96-6796-4bd2-a8de-d7b712fb37ff" />
+
+#service created with task definition in order to expose port 3000; it is accessible in the public
+
+<img width="1871" height="777" alt="ecs-task" src="https://github.com/user-attachments/assets/71f27a01-8772-4841-a3f6-4ea173ed3e20" />
+
+#Here is the login page
+
+<img width="737" height="613" alt="ecs-login" src="https://github.com/user-attachments/assets/a4b2efe5-ff42-4039-ba12-1032d7b4fc8a" />
+
+<img width="1872" height="685" alt="ecs-graf" src="https://github.com/user-attachments/assets/df37c8ff-fbe3-412d-895f-9a238a2b5326" />
+
