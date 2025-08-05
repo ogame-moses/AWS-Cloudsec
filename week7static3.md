@@ -1,3 +1,7 @@
+
+<img width="1698" height="963" alt="image" src="https://github.com/user-attachments/assets/a9ae606f-450b-44c7-b736-94958d87795c" />
+Below html code is used to build the above static website which introduces the designer
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
