@@ -1,5 +1,11 @@
+unsecure static website 
 
 <img width="1698" height="963" alt="image" src="https://github.com/user-attachments/assets/a9ae606f-450b-44c7-b736-94958d87795c" />
+
+secure static website
+
+<img width="1608" height="843" alt="image" src="https://github.com/user-attachments/assets/8b557e1f-7e82-42df-8b3d-5c0b6d5fcf8d" />
+
 Below html code is used to build the above static website which introduces the designer
 
 <!DOCTYPE html>
