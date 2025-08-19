@@ -4,7 +4,7 @@ moxilafx.name.ng created in  Hosted zone
 
 Validated ssl
 
-<img width="1777" height="792" alt="image" src="https://github.com/user-attachments/assets/fae2ff32-6e65-4c78-a64b-49a403dcb679" />
+<img width="1848" height="757" alt="cloudfron-ssl" src="https://github.com/user-attachments/assets/30568d55-d248-4b4e-8d58-a857af5e8620" />
 
 cloudfront settings with custom domain
 
